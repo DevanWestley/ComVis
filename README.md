@@ -20,10 +20,6 @@ We evaluated the models using **Hamming Loss (HL)** as the primary metric (lower
 
 *🏆 **ResNet50** achieved the best overall balance between Precision and Recall, while **VGG16** adopted a more conservative strategy, achieving the highest exact-match Accuracy.*
 
-## 🛠️ Project Structure
-* `dataset/` : Contains the multi-hot encoded CSV labels.
-* `notebooks/` : The main Jupyter Notebook (`genre_classification.ipynb`) containing the entire pipeline (Data Augmentation, Training Phase 1 & 2, Evaluation).
-
 ## ✍️ Authors
 
 * Devan Westley (Universitas Gadjah Mada)
